@@ -1,6 +1,6 @@
 import React from "react";
 
-const TabOptions = () => {
+const TabOptions = ({ activeTab, setActiveTab }) => {
   return <div>TabOptions</div>;
 };
 
